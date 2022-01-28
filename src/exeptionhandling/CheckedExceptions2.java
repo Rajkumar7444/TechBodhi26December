@@ -10,8 +10,7 @@ public class CheckedExceptions2 {
 	throws IOException
 	{
 		FileInputStream abc=null;
-		abc = new FileInputStream("E:\\\\Rajkumar Patil\\\\ABC.txt");
-		//abc = new FileInputeStream("E:\\\\Rajkumar Patil\\\\ABC.txt");
+		abc = new FileInputStream("E:\\Rajkumar Patil\\ABC.txt");
 		int k;
 		
 		while((k=abc.read() )!=-1)

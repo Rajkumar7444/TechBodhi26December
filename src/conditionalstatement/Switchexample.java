@@ -11,11 +11,11 @@ public class Switchexample {
 					System.out.println("value of case 1 is "+num);
 					
 			// need to use break else it will go to the next condition is well
-					//break;
+					break;
 					
 				case 200:
 				System.out.println("value of case 2 is "+num);
-				//break;
+				break;
 				
 				default:
 				System.out.println("value of default is "+num);

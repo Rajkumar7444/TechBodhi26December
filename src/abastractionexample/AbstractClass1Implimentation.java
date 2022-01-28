@@ -17,8 +17,8 @@ public class AbstractClass1Implimentation extends AbsractClass1
 			 ab1.simplemethod();
 			 
 			 AbstractClass1Implimentation abc = new AbstractClass1Implimentation();
-			 ab1.abstractmethod1();
-			 ab1.simplemethod();
+			 abc.abstractmethod1();
+			 abc.simplemethod();
 	}
 		@Override
 		public void abstractmethod1() {

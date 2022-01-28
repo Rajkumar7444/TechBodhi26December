@@ -1,9 +1,9 @@
 package statickeywords;
 
 public class StaticKeywordExample {
-	int count=0;
+	//int count=0;
 	
-	//static int count;
+	static int count;
 	
 	StaticKeywordExample()
 	{

@@ -20,7 +20,7 @@ public class ThrowException {
 	public static void main(String[] args) {
 		// Calling the Person
 		
-		validate(11);
+		validate(22);
 		System.out.println("rest of the code...");
 	}
 }

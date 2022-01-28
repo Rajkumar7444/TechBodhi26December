@@ -9,7 +9,7 @@ public class SuperMethod1Implementation extends SuperMethod1 {
 
 	void Print()
 	{
-		System.out.println(" Thid is the Timepass");
+		System.out.println(" This is the Timepass");
 		Display();
 		super.Display();
 	}

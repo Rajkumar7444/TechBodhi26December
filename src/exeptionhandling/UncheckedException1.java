@@ -6,7 +6,7 @@ public class UncheckedException1 {
 		
 		try {
 			int arr[]= {1,2,3,4,5};
-			System.out.println(arr[15]);
+			System.out.println(arr[1]);
 		}
 		
 		catch(ArrayIndexOutOfBoundsException e)

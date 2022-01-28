@@ -22,19 +22,19 @@ public class CheckedException1 {
 			System.out.println(" The specified file is not " + "Present at the given path");
 		}
 		
-		 int k;
+		int a;
 		 try
 		 {
-			 while ((k=fs.read() )!=-1)
+			 while ((a=fs.read() )!=-1)
 			 {
-				 System.out.println((char)k);
+				 System.out.println((char)a);
 			 }
 			 fs.close();
 		 }
 		 catch(IOException ioe)
 		 {
 			 System.out.println("I/O error occurred:"+ioe);
-		 }
+	 }
 	}
 
 }

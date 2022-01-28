@@ -17,7 +17,7 @@ public class MultipleCatchBlock {
 		
 		catch(ArrayIndexOutOfBoundsException e)
 		{
-			System.out.println("task 2 copleted");
+			System.out.println("task 2 completed");
 		}
 		
 		catch(Exception e)

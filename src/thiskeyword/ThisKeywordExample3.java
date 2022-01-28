@@ -16,7 +16,6 @@ public class ThisKeywordExample3 {
 	}
 
 	public static void main(String[] args) {
-		ThisKeywordExample3 xyz=new ThisKeywordExample3();
-		
+		ThisKeywordExample3 ab=new ThisKeywordExample3();
 	}
 }
